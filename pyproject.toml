@@ -24,7 +24,6 @@ python = "^3.6"
 pytest = "^5.4.2"
 captum = ">=0.3.1"
 transformers = ">=3.0.0"
-ipython = "^7.31.1"
 
 [tool.poetry.dev-dependencies]
 pre-commit = "^2.19.0"
